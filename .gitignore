@@ -1,0 +1,12 @@
+# Ejecutables y ficheros de compilación
+*.exe
+*.o
+*.obj
+*.out
+MiPrimerPrograma
+
+# IDEs
+.vscode/
+.vs/
+*.dev
+*.layout
